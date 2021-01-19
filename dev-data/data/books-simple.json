@@ -1,0 +1,52 @@
+[
+    { "id": 0,
+      "name": "Ten ways" ,
+      "author": "John Johnson",
+      "genre": "Educational",  
+      "rentFee": 1000,
+      "rentDates": ["2021-04-25,10:00", "2021-07-20,10:00", "2021-10-05,10:00"]
+    },
+
+    { "id": 1,
+      "name": "Ten ways" ,
+      "author": "John Johnson",
+      "genre": "Educational",  
+      "rentFee": 1000,
+      "rentDates": ["2021-04-25,10:00", "2021-07-20,10:00", "2021-10-05,10:00"]
+    },
+
+    { "id": 2,
+      "name": "Take Offs" ,
+      "author": "Ben Johnson",
+      "genre": "Political",  
+      "rentFee": 500,
+      "rentDates": ["2021-04-25,10:00", "2021-07-20,10:00", "2021-10-05,10:00"]
+    },
+
+    { "id": 3,
+      "name": "Better off" ,
+      "author": "Ini Johnson",
+      "genre": "Spiritual",  
+      "rentFee": 3000,
+      "rentDates": ["2021-04-25,10:00", "2021-07-20,10:00", "2021-10-05,10:00"]
+    },
+ 
+
+    { "id": 4,
+      "name": "Ten ways" ,
+      "author": "John Johnson",
+      "genre": "Educational",  
+      "rentFee": 1000,
+      "rentDates": ["2021-04-25,10:00", "2021-07-20,10:00", "2021-10-05,10:00"]
+    },
+ 
+ 
+    { "id": 5,
+      "name": "Why Him" ,
+      "author": "John Johnson",
+      "genre": "Romance",  
+      "rentFee": 1000,
+      "rentDates": ["2021-04-25,10:00", "2021-07-20,10:00", "2021-10-05,10:00"]
+    }
+  ]
+  
