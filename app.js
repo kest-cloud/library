@@ -3,7 +3,6 @@ const express = require ('express');
 
 
 const bookRouter = require ('./routes/libRoutes');
-const userRouter = require ('./routes/userRoutes');
 
 const app = express();
 
@@ -27,7 +26,6 @@ app.use((req, res, next) => {
 
 //this is where we mount...
 app.use('/api/v1/books', bookRouter);
-app.use('/api/v1/users', userRouter);
 
 
 module.exports = app;

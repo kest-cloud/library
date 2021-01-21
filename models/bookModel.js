@@ -9,17 +9,21 @@ const bookSchema = new mongoose.Schema ({
         trim: true
     },
     author:{ 
-        type:String,
+        type: String,
         required:[true, 'A book must have an author']
     },
     pages:{
         type: Number,
-        required:[true, 'A book must have pages']
+       // required:[true, 'A book must have pages']
     },
     genre: {
-        type:  String,
+        type: String,
     },
     
+    publisher: {
+        type: String,
+        required: [true, 'A book must have a publisher']
+    },
     rentFee: {
         type: Number,
         required: [true, 'A book must have a rent fee'] 
